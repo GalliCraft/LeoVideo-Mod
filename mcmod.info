@@ -1,0 +1,19 @@
+[
+{
+  "modid": "LeoVideoMod",
+  "name": "LeoVideoMod",
+  "description": "",
+  "version": "1.2",
+  "credits": "Created by mod maker MCreator and LeoVideo",
+  "logoFile": "/logo.png",
+  "mcversion": "1.10.2",
+  "url": "https://mcreator.pylo.co/",
+  "updateUrl": "",
+  "authors": [ "LeoVideo" , "MCreator" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
